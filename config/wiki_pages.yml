@@ -9861,7 +9861,7 @@ en:
     seamark:buoy_special_purpose:shape=super-buoy: Tag:seamark:buoy special purpose:shape=super-buoy
     seamark:cable_overhead:category=power: Tag:seamark:cable overhead:category=power
     seamark:cable_overhead:category=telephone: Tag:seamark:cable overhead:category=telephone
-    seamark:conspicuity=conspicious: Tag:seamark:conspicuity=conspicious
+    seamark:conspicuity=conspicuous: Tag:seamark:conspicuity=conspicuous
     seamark:conspicuity=conspicuous: Tag:seamark:conspicuity=conspicuous
     seamark:distance_mark:category=board: Tag:seamark:distance mark:category=board
     seamark:distance_mark:category=not_installed: Tag:seamark:distance mark:category=not
