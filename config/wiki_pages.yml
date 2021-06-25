@@ -7649,7 +7649,7 @@ en:
     barrier=retaining_wall: Tag:barrier=retaining wall
     barrier=rope: Tag:barrier=rope
     barrier=sally_port: Tag:barrier=sally port
-    barrier=select_acces: Tag:barrier=select acces
+    barrier=select_access: Tag:barrier=select access
     barrier=sliding_gate: Tag:barrier=sliding gate
     barrier=spikes: Tag:barrier=spikes
     barrier=step: Tag:barrier=step
@@ -13235,7 +13235,7 @@ fr:
     barrier=retaining_wall: FR:Tag:barrier=retaining wall
     barrier=rope: FR:Tag:barrier=rope
     barrier=sally_port: FR:Tag:barrier=sally port
-    barrier=select_acces: FR:Tag:barrier=select acces
+    barrier=select_access: FR:Tag:barrier=select access
     barrier=spikes: FR:Tag:barrier=spikes
     barrier=stile: FR:Tag:barrier=stile
     barrier=sump_buster: FR:Tag:barrier=sump buster
