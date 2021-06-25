@@ -2346,7 +2346,7 @@ de:
     bridge: DE:Key:bridge
     bridge:movable: DE:Key:bridge:movable
     bridge:structure: DE:Key:bridge:structure
-    buiding: DE:Key:buiding
+    building: DE:Key:building
     building: DE:Key:building
     building:architecture: DE:Key:building:architecture
     building:condition: DE:Key:building:condition
