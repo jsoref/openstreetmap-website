@@ -5552,7 +5552,7 @@ en:
     hazard: Key:hazard
     hazard:animal: Key:hazard:animal
     hazard_intensity: Key:hazard intensity
-    hazard_occurence: Key:hazard occurence
+    hazard_occurrence: Key:hazard occurrence
     hazard_occurrence: Key:hazard occurrence
     hazard_prone: Key:hazard prone
     hazard_return_period: Key:hazard return period
