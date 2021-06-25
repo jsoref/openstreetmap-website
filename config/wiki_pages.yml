@@ -8050,7 +8050,7 @@ en:
     crane:type=portal_crane: Tag:crane:type=portal crane
     crane:type=travel_lift: Tag:crane:type=travel lift
     crop=asparagus: Tag:crop=asparagus
-    crop=aspargus: Tag:crop=aspargus
+    crop=asparagus: Tag:crop=asparagus
     crop=bananas: Tag:crop=bananas
     crop=barley: Tag:crop=barley
     crop=cassava: Tag:crop=cassava
