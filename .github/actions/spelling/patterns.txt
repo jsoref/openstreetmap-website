@@ -1,0 +1,24 @@
+# See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-patterns
+
+# data urls
+(['"])data:.*?\g{-1}
+data:[-a-zA-Z=;:/0-9+]*,\S*
+
+# foreign wikipedia
+https://[-\w]*(?!en)..\.wikipedia\.org/[^"]*"
+
+# hex digits including css/html color classes:
+(?:[\\0][xX]|\\u|[uU]\+|#x?|\%23)[0-9a-fA-FgGrR_]{2,}(?:[uU]?[lL]{0,2}|u\d+)\b
+# URL escaped characters
+\%[0-9A-F]{2}
+
+id_key: "[^"]*"
+
+<bdi>[^<]*</bdi>
+
+# ...
+PasswordHash\.(?:check|upgrade\?)\("[^"]*", "[^"]*"
+"[0-9a-f]{32}"
+
+# ignore long runs of a single character:
+\b([A-Za-z])\g{-1}{3,}\b
